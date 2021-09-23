@@ -1,6 +1,6 @@
 
 
-# (☞ﾟヮﾟ)☞ Simple Mask JavaScript | ![GitHub](https://img.shields.io/github/license/BrHCastro/Simple-Mask-JavaScript?style=plastic)
+# (☞ﾟヮﾟ)☞ Simple Mask JavaScript | ![GitHub](https://img.shields.io/github/license/BrHCastro/Simple-Mask-JavaScript?style=plastic) | ![GitHub Repo stars](https://img.shields.io/github/stars/BrHCastro/Simple-Mask-JavaScript?style=plastic)
 Criando uma máscara de Telefone (ou qualquer outra coisa) com Javascript 💛💛💛
 
 ```javascript
